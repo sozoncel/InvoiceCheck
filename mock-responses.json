@@ -1,0 +1,14 @@
+[
+  {
+    "invoiceNumber": "FAT2025001",
+    "taxNumber": "1234567890",
+    "responseCode": "APPROVED",
+    "message": "Fatura onaylandı"
+  },
+  {
+    "invoiceNumber": "FAT2025002",
+    "taxNumber": "1234567890",
+    "responseCode": "REJECTED",
+    "message": "Hatalı imza"
+  }
+]
